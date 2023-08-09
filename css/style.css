@@ -1,34 +1,37 @@
 /*all common css start*/
 
-*{
-    margin: 0;
-    padding: 0;
-    outline: 0;
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
 }
-a{
-    text-decoration: none;
+a {
+  text-decoration: none;
 }
-ul,ol{
-    list-style-type: none;
+ul,
+ol {
+  list-style-type: none;
 }
-
+.clr {
+  clear: both;
+}
 /*all common css end*/
 
 /*light box part start*/
 
-.box{
-    padding-top: 50px;
-    padding-bottom: 45px;
-    background: #2c2c2c;
-    margin-top: 50px;
+.box {
+  padding-top: 50px;
+  padding-bottom: 45px;
+  background: #2c2c2c;
+  margin-top: 50px;
 }
 
-.box-iteam{
-    width: 25%;
-    float: left;
+.box-iteam {
+  width: 25%;
+  float: left;
 }
-.box-iteam img{
-    width: 100%;
+.box-iteam img {
+  width: 100%;
 }
 
 /*light box part end*/
